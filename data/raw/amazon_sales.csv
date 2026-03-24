@@ -1,0 +1,31 @@
+Amount,Profit,Quantity,Category,Sub_Category,Product_Name,Region,Country,Customer_Segment,Order_Date
+459.58,102.45,2,Technology,Phones,Apple iPhone 13,North America,USA,Consumer,2024-01-05
+3898.04,983.22,5,Furniture,Bookcases,Standard Bookcase,North America,USA,Corporate,2024-01-08
+1837.028,367.41,13,Office_Supplies,Appliances,Cisco Smart Phone,Europe,UK,Consumer,2024-01-12
+207.99,52.50,3,Technology,Accessories,Fellowes PB500,Asia,India,Home Office,2024-01-15
+22638.48,2308.56,28,Furniture,Chairs,Chromcraft Executive Desks,North America,Canada,Corporate,2024-01-18
+5208.8,919.54,3,Technology,Machines,GBC DocuBind P400,Europe,Germany,Consumer,2024-01-22
+1650.35,276.24,6,Office_Supplies,Furnishings,Hon File Cabinet,North America,USA,Consumer,2024-01-25
+428.65,85.73,2,Technology,Copiers,Xerox 1949,Asia,Japan,Corporate,2024-02-02
+12873.18,2589.43,7,Furniture,Tables,Virco Activity Tables,North America,USA,Corporate,2024-02-05
+1948.225,292.23,13,Office_Supplies,Paper,Binder,Europe,France,Home Office,2024-02-08
+3899.98,598.48,3,Technology,Phones,Motorola Smart Phone,North America,USA,Consumer,2024-02-12
+1234.56,445.78,4,Furniture,Chairs,Office Chair,Europe,Germany,Corporate,2024-02-15
+4567.89,912.34,5,Office_Supplies,Appliances,Paper Shredder,Asia,India,Home Office,2024-02-18
+2345.67,567.89,3,Technology,Accessories,Keyboard,North America,Canada,Consumer,2024-02-22
+5678.90,1234.56,6,Furniture,Bookcases,Filing Cabinet,Europe,UK,Corporate,2024-02-25
+3456.78,678.90,4,Office_Supplies,Furnishings,Desk Lamp,Asia,Japan,Consumer,2024-03-01
+6789.01,1456.78,5,Technology,Copiers,Scanner,North America,USA,Corporate,2024-03-05
+1234.56,289.67,2,Furniture,Tables,Conference Table,Europe,France,Home Office,2024-03-08
+4567.89,912.34,3,Office_Supplies,Paper,Printing Paper,North America,Canada,Consumer,2024-03-12
+2890.12,578.90,4,Technology,Phones,Samsung Galaxy,Asia,India,Corporate,2024-03-15
+5601.23,1120.45,5,Furniture,Chairs,Ergonomic Chair,Europe,Germany,Home Office,2024-03-18
+3712.34,742.67,3,Office_Supplies,Appliances,Copier Toner,North America,USA,Consumer,2024-03-22
+6823.45,1364.89,6,Technology,Accessories,Monitor Stand,Europe,UK,Consumer,2024-03-25
+2934.56,567.89,2,Furniture,Bookcases,Bookshelf,Asia,Japan,Corporate,2024-03-28
+4045.67,808.90,4,Office_Supplies,Furnishings,Office Desk,North America,Canada,Home Office,2024-04-01
+5156.78,1031.56,5,Technology,Machines,Printer,Europe,France,Consumer,2024-04-05
+3267.89,653.78,3,Furniture,Tables,Coffee Table,Asia,India,Corporate,2024-04-08
+6378.90,1275.67,6,Office_Supplies,Paper,Envelopes,North America,USA,Home Office,2024-04-12
+2489.01,497.80,2,Technology,Copiers,Multifunction Printer,Europe,Germany,Consumer,2024-04-15
+4590.12,918.02,4,Furniture,Chairs,Stacking Chairs,Asia,Japan,Corporate,2024-04-18
