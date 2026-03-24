@@ -216,12 +216,3 @@ By completing this project, you demonstrate:
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Scikit-learn Tutorials](https://scikit-learn.org/stable/documentation.html)
 
-## 📄 License
-
-This project uses publicly available datasets for educational purposes.
-
----
-
-**Author**: Your Name  
-**Last Updated**: March 2026  
-**Status**: Complete MVP
