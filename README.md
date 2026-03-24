@@ -200,13 +200,6 @@ By completing this project, you demonstrate:
 ✅ **Problem-Solving**: Handling missing data, outliers, data quality issues  
 ✅ **Visualization**: Creating insights-driven plots and dashboards  
 
-## 📚 Resume Talking Points
-
-- "Built end-to-end ETL pipeline processing 50k+ records using Python/Pandas"
-- "Designed dimensional data warehouse with fact and dimension tables"
-- "Performed exploratory data analysis revealing key business insights"
-- "Automated data download and transformation using Python scripts"
-- "Created analytical dashboards for C-level reporting"
 
 ## 🔗 Useful Resources
 
